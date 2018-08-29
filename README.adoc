@@ -1,0 +1,11 @@
+== Amazon Simple Email Service Node Sample
+
+Update the credentials.json file with an user with permissions to use link:https://console.aws.amazon.com/ses/home?region=us-east-1[ASE].
+
+=== Running
+    
+    npm install 
+    node send-email.js
+
+
+
